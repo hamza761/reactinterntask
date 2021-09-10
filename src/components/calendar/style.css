@@ -1,0 +1,13 @@
+._img {
+  position: absolute;
+  z-index: 1;
+  top: 50vh;
+  left: 50vw;
+}
+.select_area{
+    text-align: center;
+    margin: 10px 0px;
+}
+.select_area select{
+  height: 35px;
+}
